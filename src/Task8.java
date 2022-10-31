@@ -9,5 +9,9 @@ public class Task8 {
 
         System.out.println("Enter second number: ");
         int num2 = input.nextInt();
+
+        int result = (num1 * num2);
+
+        System.out.println("Total is " + result);
     }
 }
