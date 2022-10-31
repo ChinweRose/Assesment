@@ -18,6 +18,8 @@ public class Task9 {
 
         System.out.println(num1 + " / " + num2 + " is " + (num1 / num2));
 
+        System.out.println(num1 + " % " + num2 + " is " + (num1 % num2));
+
 
 
     }
